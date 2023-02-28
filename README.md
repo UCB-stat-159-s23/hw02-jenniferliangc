@@ -6,7 +6,5 @@ This repository is a class exercise that restructures the original LIGO code for
 installment of UC Berkeley's Stat 159/259 course, _Reproducible and Collaborative Data Science. 
 Authorship of the original analysis code rests with the LIGO collaboration.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UCB-stat-159-s23/hw02-jenniferliangc.git/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UCB-stat-159-s23/hw02-jenniferliangc.git/HEAD?labpath=LOSC_Event_tutorial.ipynb)
 
-.. image:: https://mybinder.org/badge_logo.svg
- :target: https://mybinder.org/v2/gh/UCB-stat-159-s23/hw02-jenniferliangc.git/HEAD
